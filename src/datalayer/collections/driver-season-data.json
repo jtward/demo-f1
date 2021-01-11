@@ -1,0 +1,117 @@
+[
+	{
+		"driverId": "lewis_hamilton",
+		"seasonId": 2020,
+		"number": 44
+	},
+	{
+		"driverId": "valtteri_bottas",
+		"seasonId": 2020,
+		"number": 77
+	},
+	{
+		"driverId": "max_verstappen",
+		"seasonId": 2020,
+		"number": 33
+	},
+	{
+		"driverId": "alex_albon",
+		"seasonId": 2020,
+		"number": 23
+	},
+	{
+		"driverId": "charles_leclerc",
+		"seasonId": 2020,
+		"number": 16
+	},
+	{
+		"driverId": "sebastian_vettel",
+		"seasonId": 2020,
+		"number": 5
+	},
+	{
+		"driverId": "lance_stroll",
+		"seasonId": 2020,
+		"number": 18
+	},
+	{
+		"driverId": "sergio_perez",
+		"seasonId": 2020,
+		"number": 11
+	},
+	{
+		"driverId": "lando_norris",
+		"seasonId": 2020,
+		"number": 4
+	},
+	{
+		"driverId": "carlos_sainz",
+		"seasonId": 2020,
+		"number": 55
+	},
+	{
+		"driverId": "daniel_ricciardo",
+		"seasonId": 2020,
+		"number": 3
+	},
+	{
+		"driverId": "esteban_ocon",
+		"seasonId": 2020,
+		"number": 31
+	},
+	{
+		"driverId": "pierre_gasly",
+		"seasonId": 2020,
+		"number": 10
+	},
+	{
+		"driverId": "daniil_kvyat",
+		"seasonId": 2020,
+		"number": 26
+	},
+	{
+		"driverId": "kevin_magnussen",
+		"seasonId": 2020,
+		"number": 20
+	},
+	{
+		"driverId": "romain_grosjean",
+		"seasonId": 2020,
+		"number": 8
+	},
+	{
+		"driverId": "antonio_giovinazzi",
+		"seasonId": 2020,
+		"number": 99
+	},
+	{
+		"driverId": "kimi_raikkonen",
+		"seasonId": 2020,
+		"number": 7
+	},
+	{
+		"driverId": "george_russell",
+		"seasonId": 2020,
+		"number": 63
+	},
+	{
+		"driverId": "nicholas_latifi",
+		"seasonId": 2020,
+		"number": 6
+	},
+	{
+		"driverId": "nico_hulkenberg",
+		"seasonId": 2020,
+		"number": 27
+	},
+	{
+		"driverId": "pietro_fittipaldi",
+		"seasonId": 2020,
+		"number": 51
+	},
+	{
+		"driverId": "jack_aitken",
+		"seasonId": 2020,
+		"number": 89
+	}
+]

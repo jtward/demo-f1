@@ -1,6 +1,7 @@
 module.exports = {
-  siteMetadata: {
-    title: "My Gatsby Site",
-  },
-  plugins: ["gatsby-plugin-styled-components"],
+  plugins: [
+    "gatsby-plugin-styled-components",
+    "gatsby-plugin-typescript",
+    "gatsby-plugin-material-ui"
+  ],
 };
