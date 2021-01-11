@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 
 function flagUrl(flag, x) {
 	const px = 25 * x;
-	return `/flags/${px}/${flag}.png`;
+	return `./flags/${px}/${flag}.png`;
 }
 
 function flagSrcSetEntry(flag, x) {
